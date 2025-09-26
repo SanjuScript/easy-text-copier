@@ -46,7 +46,7 @@ No more typing manually — just **share an image to the app**, select or copy a
 Clone the repo and run the app locally:  
 
 ```bash
-git clone https://github.com/yourusername/easy-text-copier.git
+git clone https://github.com/SanjuScript/easy-text-copier.git
 cd easy-text-copier
 flutter pub get
 flutter run
